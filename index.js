@@ -1,4 +1,4 @@
-#!usr/bin/env node
+#!/usr/bin/env node
 
 const { white, bgGreen, green, bold, blue, yellow } = require('colorette');
 const boxen = require('boxen');
