@@ -1,0 +1,24 @@
+{
+  "name": "andresfmj-card",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "andresfmj": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresfmj/npm-andresfmj-card.git"
+  },
+  "keywords": [],
+  "author": "andresfmj - Andres Fernando M",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andresfmj/npm-andresfmj-card/issues"
+  },
+  "homepage": "https://github.com/andresfmj/npm-andresfmj-card#readme",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "colorette": "^1.2.1"
+  }
+}
