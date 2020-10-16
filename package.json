@@ -1,6 +1,6 @@
 {
-  "name": "andresfmj-card",
-  "version": "1.0.0",
+  "name": "andresfmj",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/andresfmj/npm-andresfmj-card.git"
   },
-  "keywords": [],
+  "keywords": ["andresfmj", "webdev"],
   "author": "andresfmj - Andres Fernando M",
   "license": "MIT",
   "bugs": {
