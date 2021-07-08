@@ -1,4 +1,4 @@
-# npm-andresfmj-card
+# my-personal-card
 
 ![version](https://img.shields.io/npm/v/andresfmj?style=for-the-badge)
 [![downloads](https://img.shields.io/npm/dw/andresfmj?style=for-the-badge)](https://npm-stat.com/charts.html?package=andresfmj&from=2020-10-14)
