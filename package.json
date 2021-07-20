@@ -1,22 +1,22 @@
 {
-  "name": "andresfmj",
+  "name": "ferdroid8080",
   "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "bin": {
-    "andresfmj": "./index.js"
+    "ferdroid8080": "./index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andresfmj/npm-andresfmj-card.git"
+    "url": "git+https://github.com/ferdroid8080/npm-personal-card.git"
   },
-  "keywords": ["andresfmj", "webdev"],
-  "author": "andresfmj - Andres Fernando M",
+  "keywords": ["ferdroid8080", "ferdroid", "fernando", "webdev"],
+  "author": "ferdroid8080 - Andres Fernando",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/andresfmj/npm-andresfmj-card/issues"
+    "url": "https://github.com/ferdroid8080/npm-personal-card/issues"
   },
-  "homepage": "https://github.com/andresfmj/npm-andresfmj-card#readme",
+  "homepage": "https://github.com/ferdroid8080/npm-personal-card#readme",
   "dependencies": {
     "boxen": "^4.2.0",
     "colorette": "^1.2.1"
