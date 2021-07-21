@@ -8,6 +8,7 @@ const boxen = require('boxen');
 
 const work = white(`${yellow("Ferudinato")} - ${cyan(`Frontend Web Developer`)}`);
 const twitter = green("https://twitter.com/ferdr0id8o8o");
+const twitch = green("https://twitch.tv/ferdroid8080");
 const github = green("https://github.com/ferdroid8080");
 const site = green("https://ferudinato.com");
 const npx = green("npx ferdroid8080");
@@ -16,6 +17,7 @@ const newline = "\n";
 const headline = `            ${bgBlueBright(bold(`${yellow("   Ferdroid8080")} - ${white("Andres Fernando   ")}`))} 👨🏻‍💻`;
 const workLine = `${white(bold("       Work at:"))}         ${work}`;
 const twitterLine = `${white(bold("      Tweet me:"))}         ${twitter}`;
+const twitchLine = `${white(bold("  Streaming on:"))}         ${twitch}`;
 const githubLine = `${white(bold("        GitHub:"))}         ${github}`;
 const webLine = `${white(bold("       Website:"))}         ${site}`;
 const card = `${white(bold("     This card:"))}         ${npx} 👀`;
@@ -24,6 +26,7 @@ const output = `${headline}
 ${newline}
 ${workLine}
 ${twitterLine}
+${twitchLine}
 ${githubLine}
 ${webLine}
 ${newline}
